@@ -24,6 +24,7 @@ requires:
   Class::Load: 0
   DBI: 0
   DBIx::Simple: 0
+  SQL::Abstract: 0
   Scalar::Util: 0
   parent: 0
   perl: 5.8.1
@@ -31,4 +32,4 @@ resources:
   bugtracker: http://github.com/tomi-ru/DBIx-Simple-Inject/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/tomi-ru/DBIx-Simple-Inject
-version: 0.02
+version: 0.03
